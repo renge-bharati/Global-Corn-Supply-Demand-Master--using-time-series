@@ -40,4 +40,4 @@ if uploaded_file is not None:
                 st.plotly_chart(fig)
             else:
                 st.warning(f"Column {col} not found in dataset.")
-s
+
